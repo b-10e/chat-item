@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "Share items in chat! Type \"/trigger chatitem\"",
+    "max_format": 121,
+    "min_format": 71,
+    "pack_format": 71
+  }
+}
